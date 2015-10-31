@@ -7,7 +7,7 @@ all input is welcome.
 [youmightnotneedjqueryplugins.com](http://youmightnotneedjqueryplugins.com)
 
 ## Contribute
-If you think a plugin should be added please file a pull request or create an issue. 
+If you think a plugin should be added please file a pull request or [pester me on Twitter that I rarely visit](https://twitter.com/bklinggaard) since issues is closed. 
 
 ## Credits
 The idea for this came from [Lea Verou](https://github.com/LeaVerou) and was discussed at the [lazyweb-request repo](https://github.com/h5bp/lazyweb-requests)
